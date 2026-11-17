@@ -1,0 +1,1 @@
+# lecture-solve-pdf.skill
